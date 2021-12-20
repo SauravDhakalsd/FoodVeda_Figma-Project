@@ -1,2 +1,3 @@
 # FoodVeda_Figma-Project
-This is a figma(a software to design prototype of application) project. Worked on FIGMA and Graphics Design.
+Use Figma Software or Web App and open the ".fig" file.
+The pdf given in the project is a series of Application Interfaces for User Interaction.
